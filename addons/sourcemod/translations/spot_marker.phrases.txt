@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"en" "<{green}Mark{default}> "
+	}
+
+	"SPOT_MARKED"
+	{
+		"#format"		"{1:N}"
+		"en"			"Player {teamcolor}{1}{default} has marked a spot"
+	}
+}

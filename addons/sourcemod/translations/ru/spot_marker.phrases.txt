@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"ru" "<{green}Mark{default}> "
+	}
+
+	"SPOT_MARKED"
+	{
+		"#format"		"{1:N}"
+		"ru"			"Игрок {teamcolor}{1}{default} отметил точку"
+	}
+}
